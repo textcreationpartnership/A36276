@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salutation of my endeared love to the faithful in all places that bear their testimony for the Lord and keep in the lowliness of truth as it is in Jesus.</title>
+            <author>Dole, Dorcas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36276</idno>
+            <idno type="STC">Wing D1836</idno>
+            <idno type="STC">ESTC R27305</idno>
+            <idno type="EEBO-CITATION">09808322</idno>
+            <idno type="OCLC">ocm 09808322</idno>
+            <idno type="VID">44127</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44127)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1355:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salutation of my endeared love to the faithful in all places that bear their testimony for the Lord and keep in the lowliness of truth as it is in Jesus.</title>
+                  <author>Dole, Dorcas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bringhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Dorcas Dole.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:44127:1"/>
+            <!-- PDF PAGE 122 -->
+            <head>A SALUTATION OF MY Endeared Love TO THE FAITHFUL In ALL PLACES, That bear their Teſtimony for the Lord, and keep in the Lowlineſs to Truth as it is in JESUS.</head>
+            <p>THe Bleſſing of the Lord is with you that have given up your all to the Lord as an acceptable Sacrifice; and if you keep to that pure unchangable Power, that gives domi<g ref="char:EOLhyphen"/>nion over Sin, the Lords multiplying Hand will attend you, as it did Faithful <hi>Abraham,</hi> and make you a bleſſing a<g ref="char:EOLhyphen"/>mong the people, and ſo you will feel the Lord nearer to you then when you firſt believed, and Truth more pretious to your Souls then ever; for your beloved will be yours, and you will be his; then in the ſence of what he hath done for you, you will be willing to endure whatſoever the Lord
+<pb n="2" facs="tcp:44127:2"/>
+               <!-- PDF PAGE 123 -->permits to come upon you for the tryall of your Faith, Know<g ref="char:EOLhyphen"/>ing that the tryall of it is more precious then Gold that periſheth; and therefore have we great cauſe to count it all Joy, that he hath counted us worthy to ſuffer for his name; for it is thoſe that have fellowſhip with the Death and Suffer<g ref="char:EOLhyphen"/>ings of our Lord Jeſus that come through the great Tribula<g ref="char:EOLhyphen"/>tions, and are found worthy to walk with him in white, ſuch have Right to eat of the Tree of Life: Therefore, my dear Friends, let us be wholy given up in our Souls and Bodies to ſerve the Lord Joyfully and willingly; for it is the free-will Offerers that God accepts at this day, as in Antient Time; when the governours and people of <hi>Iſraell</hi> Offered themſelves willingly, the Lord Accepted of them, and proſpered their undertakings, to the Reviving of their hearts, which cauſed them to prayſe the Lord, and Rehearſe his Righteous Acts, in the ſence of the great deliverance they had Obtained from him alone; and then they alſo called to mind what great thoughts of heart they were once in forthem that ſtaid behind, &amp;c. who came not forth to the help of the Lord againſt the wicked; but the Lord had no need of the help of man at that day, to get himſelf a name above every name, neither hath he in theſe latter days, yet he delights in ſuch Inſtruments that ſtand up Valiently for his holy Name on the earth, and they ſhall wax Valient with Spiritual weapons; before their faces many ſhall be much pained, for the Lord will rore out of <hi>Sion</hi> and utter his Voice from his holy Habitation; and thou Oh <hi>Iſrael</hi> that haſt been faithful, and kept to thy firſt Love, ſhalt have a Habitation in him, the Rock of Ages, and ſhalt be as a Royal Diadem in the hand of thy God, and he delights to appear for thee and in thee, becauſe thou
+<pb n="3" facs="tcp:44127:3"/>
+               <!-- PDF PAGE 124 -->haſt delighted to appear before him, and to wait for him in the way of his Righteous Judgments, and Kept them till they were brought forth into victory; and though thou art very few in number, and leaſt among the Nations, and dare not medle with <hi>Carnal Weapons,</hi> yet Great will the Holy one of <hi>Iſrael</hi> be in the midſt of thee when he marcheth through the Nations to plead with the <hi>Heathen</hi> round about for thy ſake; and the Spiritual Battel is already begun in the Nati<g ref="char:EOLhyphen"/>ons, in which the great and mighty God will plead with all Fleſh as in the Vally of <hi>Jehoaſphat,</hi> which is the Vally of Judgment, for the honour of his great Name, and delive<g ref="char:EOLhyphen"/>rance of his people, which is as near to him as the Apple of his Eye: Therefore let us be Incouraged in our God, as <hi>David</hi> was when <hi>Ziglag</hi> was taken, and burnt with Fire, and the living carried away Captives by the hand of the Spoi<g ref="char:EOLhyphen"/>ler, and his Friends that ſhould have ſtood by him talked of Stoning of him, becauſe of the great diſtreſs of mind that was on them, which came only for the triall of their Faith; but great was <hi>Davids</hi> Faith and Confidence in God, and in the ſame he called upon him in the time of trouble, and the Lord heard, and Anſwered, and delivered him out of all his Diſtreſſes, both on the right hand and one the left, and all the living that the enemy had carried away captive was recover'd again by the help of the Lord to Praiſe him, neither did he miſs any thing; for the great Creator of all things was with him, and gave him Victory over his enemies, and ſo he di<g ref="char:EOLhyphen"/>vided the Spoil; and he is the ſame to the Faithful this day that have put their truſt in him in the midſt of difficulties; for he is the ſame to his people as ever he was, God Almighty and Unchangeable, without Variableneſs or ſhadow of tur<g ref="char:EOLhyphen"/>ning,
+<pb n="4" facs="tcp:44127:4"/>
+               <!-- PDF PAGE 125 -->therefore my dear Friends let us be ingaged to follow the Lord Fully as <hi>Joſhua</hi> and <hi>Caleb</hi> did, that ſo we may preſs through all Difficulties, and hold out to the end, that ſo we may be Saved; for this is my hearty deſire to the Lord for my own Soul and all the Faithful, <hi>that we may be Preſerved to the end.</hi>
+            </p>
+            <p>And ſo dear Friends, keep in true Wachfulneſs againſt the enemy, that Seeks to defile and hinder the true acceſs to God, and watch unto Prayer; for the Lord delightes to hear the Prayer of the Faithful, and it prevails much with him, and it ſhall reach to Heaven and draw down a bleſ<g ref="char:EOLhyphen"/>ſing in abundance, when all <hi>Babels-Builders</hi> ſhall be thrown down, that have ſought to reach Heaven in their vain Imagi<g ref="char:EOLhyphen"/>nations, even like <hi>Capernaam,</hi> who was exalted on high till the Lord caſt them down to Hell, and now the day of the Lord is going over the Nation to break down all Images &amp; pleaſant Pictures of Religion that are not of his own Appointing and Setting up, &amp; he will daſh them in pieces as a Potters Veſſel; <hi>for he will not give his Honour to any Idol, nor his Glory to Graven Images:</hi> and bleſſed are all thoſe that have a place in the munition of Rocks, while thoſe things are bringing to paſs; for they ſhall be glad to go together to the Houſe of God, as <hi>David</hi> was, where the Lord does teach his people of his wayes, and gives them power to ſtand ſtill and ſee his great Salvation brought to paſs for their deliverance from all op<g ref="char:EOLhyphen"/>preſſion; for it is but a very little while and all thoſe that keep to the word of Patience will be delivered out of all Temp<g ref="char:EOLhyphen"/>tation; and my Prayer to God is, <hi>That he will preſerve my Soul in Faithfulneſs among the living in the Heavenly</hi> Jeruſalem <hi>to the End.</hi>
+            </p>
+            <pb n="5" facs="tcp:44127:4"/>
+            <!-- PDF PAGE 125 -->
+         </div>
+         <div type="part">
+            <p>ANd now I have alſo a deep concern upon my Spirit, as a Faithfull <hi>Warning</hi> to you in all places that have ſlighted the Aſſem<g ref="char:EOLhyphen"/>blies of the Lords People, and in ſo doing have neglected your duty to God both in Private and Publick; for I know right well that thoſe that keep their hearts with all diligence to the Lord, to feel the Iſſue of life in the Secrets of the heart, dare not neglect their Duty to God in Publick, but muſt come forth in their places, and ſtand as Land<g ref="char:EOLhyphen"/>marks, that cannot be moved for fear of Man; and for this end did the Lord mark us out, <hi>that we ſhould bear his Name in our Foreheads,</hi> and ap<g ref="char:EOLhyphen"/>pear to others as Living, Monuments of his Mercy; Oh? therefore have a care, you Carleſs Ones, that have ſlighted your own Mercyes, which you have in a large manner been Pertakers of among the Faith<g ref="char:EOLhyphen"/>ful; for it is thoſe that keep in a living Sence of Gods Dealings with them that do prize it, and receive it with Thanks-giving, and to ſuch the Sure Mercies of <hi>David</hi> are continued and multiplied Morning by Morning: Oh therefore be concerned for time to come you that have been negligent in the work of the Lord, and work while you have a day; for the Night is haſtning upon many, in which there can be no work done for the Lord, for the work of the Lord is to be done while the Light ſhineth, which gives a true diſcovery of the Deeds of Dark<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs; therefore bring your deeds to the Light, that they may be made manifeſt whether they are wrought in God or no; <hi>for the Juſt Mans Path is a ſhining Light, that ſhineth more and more to the Perfect Day;</hi> ſo in tender bowels of true love my heart is open to you, that have taſted of the good Word of God, and the powers of the World to come, to per<g ref="char:EOLhyphen"/>ſwade you to perſevere in the work of the Lord, and to wait diligently upon him, that he may perfect his own work in you to his own prayſe, that ſo you may Sanctifie his great name in the ſight of the <hi>Heathen,</hi> and appear to be in deed what you have made a long Profeſſion of; and for this end did God Manifeſt his unſpeakable Love unto us, and give us a Manifeſtation of his good Spirit that we might profit therewith
+<pb n="6" facs="tcp:44127:5"/>
+               <!-- PDF PAGE 126 -->and be Perfected by it, that ſo we might come to witneſs, as the A poſtle ſaid, <hi>that we are able to doe all things through Chriſt that ſtrengthens us</hi>-and as it was ſaid of old, by one that had ſeen the end of all Perfection, that the commandements of the Lord were exceeding broad, ſo it is mani<g ref="char:EOLhyphen"/>feſt to the faithfull this day, and they can keep them with great delight, and they are not grievous to them; for it is ſuch that are in the true poſ<g ref="char:EOLhyphen"/>ſeſſion of the true Faith that ſhall hold faſt the Profeſſion without wa<g ref="char:EOLhyphen"/>vering, and they do ſhine as a City ſet on a Hill, that cannot be hid, and dare not hide their Candle under a Buſhel or under a Bed, nor reſt in a bare knowledge of the Truth, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t are willing to be Faithful in their meaſure to what God Requires of them, that ſo they may feel the in<g ref="char:EOLhyphen"/>creaſe of Gods Love to their Soules, to preſerve them; though there be no need to ſay to ſome <hi>Know the Lord,</hi> yet there is great need to ſay to ſome <hi>Obey the Lord;</hi> for <hi>Obedience is better then Sacrifice, and to hearken to the Voyce of God then all vain Oblations;</hi> and for want of <hi>Obe<g ref="char:EOLhyphen"/>dience</hi> many are become vain in their Imaginations, that were once Englightned, and their Underſtandings again Darkned, and the Ear that was once open to hear the Voice of the true Shepherd, is again ſtopped by the <hi>Philiſtian</hi> nature; ſo though the Lord ſpeak once, and again, yet they Regard it not; for the Abomination is yet ſtanding in the hearts of ſuch which are not Faithful to the Lord, and therefore they cannot hear the Voice of him that calls for purity and holineſs; this hinders the work of the Lord; that ſo their Calling &amp; Election is not made ſure, but Excuſes are made by ſuch, <hi>that they are not to be too forward to goe in a Trying time to offer Sacrifice,</hi> and ſo cauſe the dayly publick Sacrifices to Ceaſe, and ſee not ſo much need of the continuance of it as the Apoſtle did when he ſpake to the Church in the ſence of what Chriſt had done for them, to offer up Spirituall Sacrifice through him to God; and they were exhorted, <hi>not to forſake the Aſſembling of them ſelves together, as the manner of ſome were,</hi> that ſaw not the neceſſity of it; for thoſe that know the blotting out of Sin, and paſſing by Iniquity, ſaw they had as much Need to wait upon the Lord to feel Refreſhment from his Preſence, and their ſtrength Renewed in him, as they had before to gather together to wait for him in the way of his Judgments; and the travel of my Soul is, that it may be ſo with all who make a Profeſſion
+<pb n="7" facs="tcp:44127:6"/>
+               <!-- PDF PAGE 127 -->of his name at this day, ſo that we may preſs forward toward the mark of the high Calling in Chriſt Jeſus, that the Enemy do not betray us from the Simplicity of the Goſpel, that ſo in the end we may ſay as the A<g ref="char:EOLhyphen"/>poſtle did, <hi>that in Simplicity and Godly Sincerity we have had our Converſation in this World.</hi> So bleſſed are all they that do order their Converſation aright, the promiſe is to them, <hi>that God will ſhew them his Salvation;</hi> for he that hath called us to ceaſe from man, whoſe breath is in his noſtrills hath alſo commanded us to live in the Spirit and power of holineſs, and obey him in all things, leſt we be cut off from the True Vine, and caſt out as Fruitleſs Branches, fit for nothing but the Fire; wherefore ſee<g ref="char:EOLhyphen"/>ing and knowing theſe things, let us take the more heed to our wayes, and conſider what manner of Perſons we ought to be in all our conver<g ref="char:EOLhyphen"/>ſation, to the end if we are Chriſts Diſciples the offence of the Croſs is not to be ceaſed from, but a dayly taking it up is to be known by all them that follow the Lord fully, becauſe it crucifies the world to them, and they to the world; and this is the Saints Glory, for they dare not to glory in any thing ſaving in the Croſs of Chriſt, but muſt forget what is behind and wait upon the Lord for dayly ſtrength to go forward to perform our reaſonable ſervice to him, ſeeing we can do nothing without him that is acceptable in his Sight, we have great Reaſon to Wait at the hea<g ref="char:EOLhyphen"/>venly <hi>Jeruſalem,</hi> to be indued with power from an high, that we may be carried on in the ark of ſafety, Chriſt Jeſus, who Vanquiſhed the Tempter when he tryed him with various Temptations, and when he had overcome in all things the Angels Miniſtred to him, and in the pow<g ref="char:EOLhyphen"/>er of the Spirit he was carried into Galile and all places to do his Fathers will, and it was his Delight to pleaſe his Father in all things though through Deep Sufferings, and though a Son, yet learned he obedience to his Father, and his Father Delighted in him, and gave him that teſtimony that in all things he was well pleaſed with him; and it was for our ſakes tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he gave the only begotten Son of his love to Suffer for us, that we might be redeemed to God through his name, and find acceptance to the Father by him, who is the only propitiation for our Sins; and as we live in obedience to his power we ſhall Receive an anſwer from God that he accepts of us and our doings, becauſe we live and move and are acted by
+<pb n="8" facs="tcp:44127:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 128 -->him in whom his Soul takes pleaſure, and therefore hath he made him heir of all things, and put in ſubjection under him, and anoynted him with Oyle of Joy above his Fellows, that the Virgin Daughter of <hi>Sion</hi> may love him, becauſe of the preciouſneſs of the Oyntment that pro<g ref="char:EOLhyphen"/>ceeds from him, who is the Husband of the true Church, and therefore is her deſire after him, and thoſe that do live in the ſence of the great love he hath beſtowed on them, will prize it, and walk worthy of it; and they are of the ſame mind the Apoſtle was when he ſaid, <hi>but whoſe keepeth his word, in him is the Love of God perfected; hereby know we, that we are in him; he that ſaith he Abideth in him, ought himſelf alſo to walk even as he Walked.</hi> So in true love to all that make a profeſſion of the Truth my Soul is inlarged beyond what Ink and Paper can demonſtrate, deſi<g ref="char:EOLhyphen"/>ring the proſperity of <hi>Sion</hi> and welfare of heavenly <hi>Jeruſalem;</hi> and my Prayer to God is, <hi>That all might be gathered into that Faith that works by love, and gives Victory over the World;</hi> for they ſhall proſper, that Love <hi>Sion.</hi>
+            </p>
+            <p>So having Cleared my ſelf of what lay upon me from the Lord I am a Friend to all that love the Appearance of our Lord Jeſus Chriſt.</p>
+            <closer>
+               <dateline>Priſoner to <hi>Newgate</hi> in <hi>Briſtol</hi> for the Teſtimony of Jeſus, <date>the 17th of the 12th Month, 1684.</date>
+               </dateline>
+               <signed>Dorcas Dole.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> John Bringhurſt <hi>in</hi> Leaden-hall, 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
